@@ -1,56 +1,75 @@
-# Hey there! 👋 I'm Hafiizherdian
+<!-- README.md -->
 
-I'm a **student** passionate about technology, always curious and learning something new.  
-I love exploring the world of code—especially with **Python**, **React**, and **TypeScript**.
+<h1 align="center">👋 Hey, I'm Hafiizherdian</h1>
 
----
-
-### 🚀 What I'm Up To
-
-- 🌱 Currently sharpening my coding skills and building my knowledge, one project at a time.
-- 💡 Experimenting, tinkering, and learning by doing—every day.
-- 📚 Always open to new ideas, collaboration, and opportunities to grow.
+<p align="center">
+  <em>“Keep learning. Keep building. Keep exploring.”</em>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🧭 About Me
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![DockerHub](https://img.shields.io/badge/-DockerHub-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+- 💻 **IT Enthusiast** who loves exploring technology and building creative solutions.  
+- 🧠 Currently focused on **AI**, **backend systems**, and **data engineering**.  
+- ⚙️ Passionate about clean code, automation, and modern software architecture.  
+- 🤝 Always open to learning, collaboration, and new challenges.  
 
 ---
 
-### 🤔 About Me
+### ⚙️ Tech Stack
 
-- 😅 **Bio:** i dont know  
-- 💤 **Fun fact:** nah boring person (but maybe you'll prove me otherwise!)  
-- 💻 **OS of choice:** Linux
-- 🌐 **Socials:** LinkedIn coming soon!
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white" />
+</p>
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 🚀 What I'm Working On
+
+- 🔍 Exploring **Generative AI** and **data-driven systems**  
+- 🧩 Building small projects with **React**, **Next.js**, and **TypeScript**  
+- 📊 Experimenting with **Python**, **SQL**, and **machine learning pipelines**  
+- 🧱 Learning microservices and distributed system design  
+
+---
+
+### 🧰 Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,typescript,nodejs,docker,postgres,linux,git,github&theme=light" />
+</p>
+
+---
+
+### 📈 GitHub Insights
 
 <p align="center">
   <a href="https://github.com/Hafiizherdian">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hafiizherdian&show_icons=true&theme=tokyonight&count_private=true&hide_title=false" height="160" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Hafiizherdian&show_icons=true&theme=graywhite&hide_title=false&count_private=true" height="160" />
   </a>
   <a href="https://github.com/Hafiizherdian">
-    <img src="https://streak-stats.demolab.com?user=Hafiizherdian&theme=tokyonight&hide_border=false" height="160" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Hafiizherdian&theme=graywhite&hide_border=false" height="160" />
   </a>
   <a href="https://github.com/Hafiizherdian">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiizherdian&layout=compact&theme=tokyonight&langs_count=6" height="160" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiizherdian&layout=compact&theme=graywhite&langs_count=6" height="160" />
   </a>
 </p>
 
 ---
 
-> *"Code is like humor. When you have to explain it, it’s bad."*  
-> — Cory House
+### 🖤 Philosophy
 
-Thanks for stopping by! Feel free to drop a ⭐️, share tips, or just say hello!
+> *“Simplicity is the soul of efficiency.”*  
+> — Austin Freeman  
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by. Simplicity speaks louder than color 🎨</i>
+</p>
