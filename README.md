@@ -39,13 +39,6 @@
 
 ---
 
-###  Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,typescript,nodejs,docker,postgres,linux,git,github&theme=light" />
-</p>
-
----
 
 ###  GitHub Insights
 
