@@ -65,8 +65,8 @@
 
 ### 🖤 Philosophy
 
-> *“Simplicity is the soul of efficiency.”*  
-> — Austin Freeman  
+> *“When I wrote this/that code, only GOD and I know. But now only GOD know”*  
+> — Someone  
 
 ---
 
