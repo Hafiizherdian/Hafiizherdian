@@ -8,16 +8,16 @@
 
 ---
 
-### 🧭 About Me
+###  About Me
 
-- 💻 **IT Enthusiast** who loves exploring technology and building creative solutions.  
-- 🧠 Currently focused on **AI**, **backend systems**, and **data engineering**.  
-- ⚙️ Passionate about clean code, automation, and modern software architecture.  
-- 🤝 Always open to learning, collaboration, and new challenges.  
+-  **IT Enthusiast** who loves exploring technology and building creative solutions.  
+-  Currently focused on **AI**, **backend systems**, and **data engineering**.  
+-  Passionate about clean code, automation, and modern software architecture.  
+-  Always open to learning, collaboration, and new challenges.  
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white" />
@@ -30,16 +30,16 @@
 
 ---
 
-### 🚀 What I'm Working On
+###  What I'm Working On
 
-- 🔍 Exploring **Generative AI** and **data-driven systems**  
-- 🧩 Building small projects with **React**, **Next.js**, and **TypeScript**  
-- 📊 Experimenting with **Python**, **SQL**, and **machine learning pipelines**  
-- 🧱 Learning microservices and distributed system design  
+-  Exploring **Generative AI** and **data-driven systems**  
+-  Building small projects with **React**, **Next.js**, and **TypeScript**  
+-  Experimenting with **Python**, **SQL**, and **machine learning pipelines**  
+-  Learning microservices and distributed system design  
 
 ---
 
-### 🧰 Toolbox
+###  Toolbox
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,react,typescript,nodejs,docker,postgres,linux,git,github&theme=light" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 📈 GitHub Insights
+###  GitHub Insights
 
 <p align="center">
   <a href="https://github.com/Hafiizherdian">
@@ -63,7 +63,7 @@
 
 ---
 
-### 🖤 Philosophy
+###  Philosophy
 
 > *“When I wrote this/that code, only GOD and I know. But now only GOD know”*  
 > — Someone  
