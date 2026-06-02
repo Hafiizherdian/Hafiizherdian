@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  <i>Thanks for stopping by. Simplicity speaks louder than color 🎨</i>
+  <i>This is bullshit</i>
 </p>
